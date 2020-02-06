@@ -8,4 +8,4 @@ Fixed PID controller used as a control theoretical autoscaler for the cloud soft
 ## Heat_Controller
 This is the scaling heat algorithm used as a baseline for comparison in our research. One can find the details of this algorithm [Delivering Elastic Containerized Cloud Applications to Enable DevOps](https://ieeexplore.ieee.org/abstract/document/7968133) .
 ## NN-PID-Controller
-The proposed adaptive control theoretical autoscaling algorithm. The proposed algorithm uses Neural netwroks for modeling the cloud software system. In order to use this section you need to use tensoflow library.
+The proposed adaptive control theoretical autoscaling algorithm. The proposed algorithm uses Neural netwroks for modeling the cloud software system. In order to use this section you need to use tensorflow library.
